@@ -1,0 +1,9 @@
+.side{
+    width:8px;
+    height: 30px;
+    background-color: #f63306;
+    position: absolute;
+    top: 225px;
+    left: 0px;
+    border-radius: 0px 10px 10px 0px;
+}
